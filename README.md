@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmc0707&label=Profile%20views&color=0e75b6&style=flat" alt="pmc0707" /> </p>
 
-- 🌱 I’m currently learning _JAVA DAS_
+- 🌱 I’m currently learning _**JAVA DAS**_
 
 - 👨‍💻 All of my projects are available at [https://github.com/pmc0707](https://github.com/pmc0707)
 
-- 📫 How to reach me _pranjal.mridul_cs22@gla.ac.in_
+- 📫 How to reach me _**pranjal.mridul_cs22@gla.ac.in**_
 
-- ⚡ Fun fact _I failed many times,but I regenerate myself😁_
+- ⚡ Fun fact _**I failed many times,but I regenerate myself😁**_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
