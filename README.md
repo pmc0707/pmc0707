@@ -1,3 +1,4 @@
+![logo](https://github.com/pmc0707/pmc0707/blob/main/6604629fb132260013f4a344.jpg)
 <h1 align="center">Hi 👋, I'm PRANJAL MRIDUL</h1>
 <h3 align="center">A Computer Science Engineer From India...</h3>
 
