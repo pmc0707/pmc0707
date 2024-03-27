@@ -12,7 +12,7 @@
 
 - 📫 How to reach me _**pranjal.mridul_cs22@gla.ac.in**_
 
-- ⚡ Fun fact _**I failed many times,but I regenerate myself😁**_
+- ⚡ Fun fact _**I failed many times,but I regenerate myself**_ 🔥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
