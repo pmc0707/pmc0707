@@ -1,6 +1,6 @@
 ![logo](https://github.com/pmc0707/pmc0707/blob/main/6604629fb132260013f4a344.jpg)
-<h1 align="center">Hi 👋, I'm PRANJAL MRIDUL</h1>
-<h3 align="center">A Computer Science Engineer From India...</h3>
+<h1 align="left">Hi 👋, I'm PRANJAL MRIDUL</h1>
+<h3 align="left">A Computer Science Engineer From India...</h3>
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.872a89ce9a8c2fcfceb048abe8a09a87?rik=GDfCPWbZCqIUvA&riu=http%3a%2f%2fbestanimations.com%2fComputers%2ffunny-homer-computer-animated-gif-38.gif&ehk=lGkt5xTa%2fVSDGO%2fXi0l8GfPGgNRdweZ74uwU2APiLUc%3d&risl=&pid=ImgRaw&r=0">
 
