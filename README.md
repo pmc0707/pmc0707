@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmc0707&label=Profile%20views&color=0e75b6&style=flat" alt="pmc0707" /> </p>
 
-- 🌱 I’m currently learning _**JAVA DAS**_
+- 🌱 I’m currently learning _**JAVA DSA**_
 
 - 👨‍💻 All of my projects are available at [https://github.com/pmc0707](https://github.com/pmc0707)
 
