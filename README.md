@@ -2,7 +2,7 @@
 <h1 align="left">Hi Everyone!, This is PRANJAL MRIDUL</h1>
 <h3 align="left">A Computer Science Engineer From India...</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.872a89ce9a8c2fcfceb048abe8a09a87?rik=GDfCPWbZCqIUvA&riu=http%3a%2f%2fbestanimations.com%2fComputers%2ffunny-homer-computer-animated-gif-38.gif&ehk=lGkt5xTa%2fVSDGO%2fXi0l8GfPGgNRdweZ74uwU2APiLUc%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D22AQFizyOcKDF4tA/feedshare-shrink_800/0/1711999391785?e=1716422400&v=beta&t=BvWYwjqM8FborFLP-GKpXKV7PRRu9My8snI5lyYr16k">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmc0707&label=Profile%20views&color=0e75b6&style=flat" alt="pmc0707" /> </p>
 
