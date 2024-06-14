@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D22AQFizyOcKDF4tA/feedshare-shrink_800/0/1711999391785?e=1716422400&v=beta&t=BvWYwjqM8FborFLP-GKpXKV7PRRu9My8snI5lyYr16k">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pmc0707&label=Profile%20views&color=0e75b6&style=flat" alt="pmc0707" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/teepublic/image/private/s--tzGHQoFC--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1589927567/production/designs/10362248_0.jpg" alt="pmc0707" /> </p>
 
 - 🌱 I’m currently learning _**JAVA DSA**_
 
