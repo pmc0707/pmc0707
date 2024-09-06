@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning _**FULL STACK (MERN)**_
 
-- 👨‍💻 All of my projects are available at [https://github.com/pmc0707](https://github.com/pmc0707)
+- 👨‍💻  Available at [](https://www.linkedin.com/in/pranjalmridul2005/)]
 
 - 📫 How to reach me _**pranjal.mridul_cs22@gla.ac.in**_
 
