@@ -1,6 +1,7 @@
 ![logo](https://github.com/pmc0707/pmc0707/blob/main/6604629fb132260013f4a344.jpg)
 <h1 align="left">Hi Everyone!, This is PRANJAL MRIDUL</h1>
 <h3 align="left">A Computer Science Engineer From India...</h3>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44503b91cca36dab40c38db37d22a24d51f52e02f8ef36105231c98b7503e298/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646b6332303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/44503b91cca36dab40c38db37d22a24d51f52e02f8ef36105231c98b7503e298/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646b6332303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="dkc2006" data-canonical-src="https://komarev.com/ghpvc/?username=dkc2006&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 <img align="right" alt="coding" width="400" src="gituu.jpg">
 
