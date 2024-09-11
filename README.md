@@ -12,7 +12,9 @@
 
 - ⚡ Fun fact _**I failed many times,but I regenerate myself**_ 🔥
 
-<img margin-left="-50px" src="gituu.jpg">
+<div >
+  <img margin-left="-50px" src="gituu.jpg">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
