@@ -1,37 +1,82 @@
-![logo](https://github.com/pmc0707/pmc0707/blob/main/6604629fb132260013f4a344.jpg)
-<h1 align="left">Hi Everyone!, This is PRANJAL MRIDUL</h1>
-<h3 align="left">A Software Development Engineer (SDE) from India with a passion for building scalable, efficient, and innovative solutions. With experience across various technologies and a keen interest in clean code and best practices, I’m committed to delivering high-quality software.</h3>
-<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44503b91cca36dab40c38db37d22a24d51f52e02f8ef36105231c98b7503e298/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646b6332303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/44503b91cca36dab40c38db37d22a24d51f52e02f8ef36105231c98b7503e298/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646b6332303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="dkc2006" data-canonical-src="https://komarev.com/ghpvc/?username=dkc2006&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
-<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/d6766852befaa2670d350f5d9ff5855b1517e77947c6a3058ee3f7cc3345f744/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d646b6332303036" alt="dkc2006" data-canonical-src="https://github-profile-trophy.vercel.app/?username=dkc2006" style="max-width: 100%;"></a> </p>
+<p align="center">
 
-- 🌱 I’m currently learning _**FULL STACK (MERN)**_
+<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/Welcome-on-my-Github-profile.gif"/>
 
-- 👨‍💻  Available at https://www.linkedin.com/in/pmc0707/
-
-- 📫 How to reach me _**pranjal.mridul_cs22@gla.ac.in**_
-
-- ⚡ Fun fact _**I failed many times,but I regenerate myself**_ 🔥
-
-<div >
-  <img margin-left="-50px" src="gituu.jpg">
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranjalmridul2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjalmridul2005" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pranjal_mridul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranjal_mridul" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmc0707&show_icons=true&locale=en&layout=compact" alt="pmc0707" /></p>
-<div class="Box mb-5 p-3 activity-overview-box border-top border-xl-top-0">
-
-    
+<p align="left">
+<img alt="Hello" src="https://github.com/Ilithy/Ilithy/blob/603e97bb93ef393590b0c58ab32194efe33a8452/Art/Hello-to-you-19-07-2022.gif"width="250"/>
+</p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmc0707&show_icons=true&locale=en" alt="pmc0707" /></p>
+<div size='20px'><b>Hi! Thank You for taking the time to view my GitHub Profile</b></div>  
+<br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmc0707&" alt="pmc0707" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Serif&pause=1000&width=435&lines=If+you+want+to+contact+me%2C+for+any+reason;Feel+free+to+open+a+discussion+on+my+profile)](https://git.io/typing-svg)
+<!-- Created with: https://github.com/DenverCoder1/readme-typing-svg and https://readme-typing-svg.demolab.com/demo/ //❤️ Thanks! ❤️//  -->
+
+<p align="left">
+<img alt="About" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/About-me-19-07-2022.gif"width="200"/>
+</p>
+  
+My name is Nathanaël, I am a simple user, I help the developers who want it by:
+
+- translating in my language _(French)_
+- creating simple presentation illustrations _(banners, screenshots for app store etc...)_
+- moral support ❤️
+
+<!--
+**Ilithy/Ilithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<details>
+<summary><h3>Useful links</h3></summary>
+
+**- Useful android foss application**
+  1. [Olauncher CF](https://github.com/jooooscha/Olauncher)
+  2. [Silence](https://github.com/x13a/Silence)
+  3. [KeepassDX](https://github.com/Kunzisoft/KeePassDX)
+  4. [UrlCheck](https://github.com/TrianguloY/UrlChecker)
+  5. [Translate You](https://github.com/Bnyro/TranslateYou)
+  6. [_Unofficial_ Deepl for Android](https://github.com/sakusaku3939/DeepLAndroid)
+  7. _More soon_ <!-- to filled in later -->
+
+</details>
+
+<p align="center">
+<img alt="Statistics" src="https://github.com/Ilithy/Ilithy/blob/bf1be3110677475ceeeb6362a573089a174f2b72/Art/Github-Statistics-20-07-2022.gif"width="300"/>
+</p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ilithy&label=Profile%20views&color=0e75b6&style=flat"
+ </p>
+
+<br/>
+<p align="center">
+  <a href="https://github.com/Ilithy">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilithy&show_icons=true&theme=radical&hide_border=true" />
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ilithy)](https://github.com/Ilithy/github-profile-trophy)
+
+
+[![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilithy&custom_title=Ilithy%20Contribution%20Graph&theme=radical)](https://Ilithy.dev)
+</a>
+ </p>
+  <br>
+
+<!-- No new line at the end of this file -->
