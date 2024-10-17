@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning _**FULL STACK (MERN)**_
 
-- 👨‍💻  Available at [https://www.linkedin.com/in/pmc0707/](https://www.linkedin.com/pmc0707/)]
+- 👨‍💻  Available at [https://www.linkedin.com/in/pmc0707/](https://www.linkedin.com/pmc0707/)
 
 - 📫 How to reach me _**pranjal.mridul_cs22@gla.ac.in**_
 
