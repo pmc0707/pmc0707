@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://aws.amazon.com/" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40">
+  <img src="https://th.bing.com/th/id/R.a6c1d39637949a370f8e93aab60a741f?rik=ABtTtCBpS8oVOw&riu=http%3a%2f%2fgisuser.com%2fwp-content%2fuploads%2f2018%2f08%2f2000px-Amazon_Web_Services_Logo.svg_.png&ehk=hQq0rohWcsyiJCNiAOwDAXgnti8Yjm0TPZJLBnIXSHM%3d&risl=&pid=ImgRaw&r=0" alt="AWS" width="40" height="40">
 </a>
 
 <a href="https://nodejs.org/" rel="nofollow">
