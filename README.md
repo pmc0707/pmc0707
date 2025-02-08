@@ -23,6 +23,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/pranjalmridul2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjalmridul2005" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pranjal_mridul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranjal_mridul" height="30" width="40" /></a>
+  <a href="https://leetcode.com/" rel="nofollow">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
