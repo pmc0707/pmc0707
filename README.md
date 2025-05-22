@@ -7,7 +7,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=pmc0707&abbreviated=true) -->
 <p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/d6766852befaa2670d350f5d9ff5855b1517e77947c6a3058ee3f7cc3345f744/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d646b6332303036" alt="pmc0707" data-canonical-src="https://github-profile-trophy.vercel.app/?username=pmc0707" style="max-width: 100%;"></a> </p>
 
-- 🌱 I’m currently learning *FULL STACK (MERN)*
+- 🌱 I’m currently learning *NextJs*
 
 - 👨‍💻  Available at https://www.linkedin.com/in/pmc0707/
 
