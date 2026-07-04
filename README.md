@@ -67,6 +67,4 @@
 [![An image of @pmc0707's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pmc0707)](https://holopin.io/@pmc0707)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmc0707&show_icons=true&locale=en" alt="pmc0707" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmc0707&" alt="pmc0707" /></p>
