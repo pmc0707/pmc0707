@@ -62,8 +62,7 @@
 </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmc0707&show_icons=true&locale=en&layout=compact" alt="pmc0707" /></p>
-<div class="Box mb-5 p-3 activity-overview-box border-top border-xl-top-0">
+
 
 [![An image of @pmc0707's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pmc0707)](https://holopin.io/@pmc0707)
 
